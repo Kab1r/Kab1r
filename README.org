@@ -8,6 +8,8 @@ Some of my projects are listed below
 
 + 🎙️ [[https://github.com/KabirKwatra/Google-Assistant-Discord-Bot][Google Assistant Discord Bot]]
 + 🔥 [[https://github.com/KabirKwatra/cloud_firestore_all][Cloud Firestore All (deprecated)]]
++ ⚡ [[https://github.com/KabirKwatra/fast][Fast.com CLI]]
++ 🧛🏻‍♂️ [[https://github.com/dracula/betterdiscord][Dracula Theme for BetterDiscord]]
 
 📫 How to reach me:
 
@@ -18,8 +20,7 @@ Some of my projects are listed below
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&cover_image=true)]]
 
-
-[[/][https://ghrms.vercel.app/api.svg?username=kabirkwatra&show_icons=true&count_private=true&theme=dracula]]
+[[https://github.com/KabirKwatra][https://ghrms.vercel.app/api.svg?username=kabirkwatra&show_icons=true&count_private=true&theme=dracula]]
 
 
 😄 Pronouns: He / Him / His.
