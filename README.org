@@ -1,0 +1,25 @@
+* 👋🏾 Hello! 👋🏾
+
+I'm Kabir, a undergrad student pursuing a degree in computer science. I like working on open-source projects that enable others.
+
+📷 I also do photography on the side, so you can find that [[https://instagram.com/KabirKwatra][here]]
+
+Some of my projects are listed below
+
++ 🎙️ [[https://github.com/KabirKwatra/Google-Assistant-Discord-Bot][Google Assistant Discord Bot]]
++ 🔥 [[https://github.com/KabirKwatra/cloud_firestore_all][Cloud Firestore All (deprecated)]]
+
+📫 How to reach me:
+
+[[https://github.com/kabirkwatra][https://img.shields.io/github/followers/KabirKwatra.svg?logo=github&label=Github&style=flat-square]]
+[[https://twitter.com/KabirKwatra][https://img.shields.io/twitter/follow/KabirKwatra.svg?logo=twitter&label=Twitter&color=1DA1F2&style=flat-square]]
+[[mailto:kabir@kwatra.me][https://img.shields.io/badge/--email.svg?label=E-mail&logo=Gmail&color=red&style=flat-square]]
+[[https://www.linkedin.com/in/KabirKwatra][https://img.shields.io/badge/--linkedin.svg?label=LinkedIn&logo=LinkedIn&logoColor=blue&color=blue&style=flat-square]]
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&cover_image=true)]]
+
+
+[[/][https://ghrms.vercel.app/api.svg?username=kabirkwatra&show_icons=true&count_private=true&theme=dracula]]
+
+
+😄 Pronouns: He / Him / His.
