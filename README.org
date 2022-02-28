@@ -6,21 +6,21 @@ I'm Kabir, a undergrad student pursuing a degree in computer science. I like wor
 
 Some of my projects are listed below
 
-+ 🎙️ [[https://github.com/KabirKwatra/Google-Assistant-Discord-Bot][Google Assistant Discord Bot]]
-+ 🔥 [[https://github.com/KabirKwatra/cloud_firestore_all][Cloud Firestore All (deprecated)]]
-+ ⚡ [[https://github.com/KabirKwatra/fast][Fast.com CLI]]
++ 🎙️ [[https://github.com/Kab1r/Google-Assistant-Discord-Bot][Google Assistant Discord Bot]]
++ 🔥 [[https://github.com/Kab1r/cloud_firestore_all][Cloud Firestore All (deprecated)]]
++ ⚡ [[https://github.com/Kab1r/fast][Fast.com CLI]]
 + 🧛🏻‍♂️ [[https://github.com/dracula/betterdiscord][Dracula Theme for BetterDiscord]]
 
 📫 How to reach me:
 
-[[https://github.com/kabirkwatra][https://img.shields.io/github/followers/KabirKwatra.svg?logo=github&label=Github&style=flat-square]]
+[[https://github.com/Kab1r][https://img.shields.io/github/followers/Kab1r.svg?logo=github&label=Github&style=flat-square]]
 [[https://twitter.com/KabirKwatra][https://img.shields.io/twitter/follow/KabirKwatra.svg?logo=twitter&label=Twitter&color=1DA1F2&style=flat-square]]
 [[mailto:kabir@kwatra.me][https://img.shields.io/badge/--email.svg?label=E-mail&logo=Gmail&color=red&style=flat-square]]
 [[https://www.linkedin.com/in/KabirKwatra][https://img.shields.io/badge/--linkedin.svg?label=LinkedIn&logo=LinkedIn&logoColor=blue&color=blue&style=flat-square]]
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&cover_image=true)]]
 
-[[https://github.com/KabirKwatra][https://ghrms.vercel.app/api.svg?username=kabirkwatra&show_icons=true&count_private=true&theme=dracula]]
+[[https://github.com/Kab1r][https://ghrms.vercel.app/api.svg?username=Kab1r&show_icons=true&count_private=true&theme=dracula]]
 
 
 😄 Pronouns: He / Him / His.
