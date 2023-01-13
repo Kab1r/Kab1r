@@ -17,7 +17,9 @@ Some of my projects are listed below
 [[https://twitter.com/KabirKwatra][https://img.shields.io/twitter/follow/KabirKwatra.svg?logo=twitter&label=Twitter&color=1DA1F2&style=flat-square]]
 [[mailto:kabir@kwatra.me][https://img.shields.io/badge/--email.svg?label=E-mail&logo=Gmail&color=red&style=flat-square]]
 [[https://www.linkedin.com/in/Kab1r][https://img.shields.io/badge/--linkedin.svg?label=LinkedIn&logo=LinkedIn&logoColor=blue&color=blue&style=flat-square]]
+#+BEGIN_HTML
 <a rel="me" href="https://social.kwatra.me/@kabir">Mastodon</a>
+#+END_HTML
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&cover_image=true)]]
 
