@@ -1,6 +1,6 @@
 * 👋🏾 Hello! 👋🏾
 
-I'm Kabir, a undergrad student pursuing a degree in computer science. I like working on open-source projects that enable others.
+I'm Kabir, a recent grad with an bachelor's degree in computer science. I like working on open-source projects that enable others.
 
 📷 I also do photography on the side, so you can find that [[https://instagram.com/KabirKwatra][here]]
 
