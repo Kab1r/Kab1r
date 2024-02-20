@@ -23,7 +23,4 @@ Some of my projects are listed below
 
 [[https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kabirkwatra02&cover_image=true)]]
 
-[[https://github.com/Kab1r][https://ghrms.vercel.app/api.svg?username=Kab1r&show_icons=true&count_private=true&theme=dracula]]
-
-
 😄 Pronouns: He / Him / His.
